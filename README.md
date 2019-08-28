@@ -1,1 +1,1 @@
-# Predicting-Election-results-in-Greater-Kailash-booths (Ongoing)
+# Predicting-Election-results-in-Greater-Kailash-booths
